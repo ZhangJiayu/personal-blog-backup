@@ -3,10 +3,10 @@
   <channel>
     <title>Jiayu Zhang</title>
     <description></description>
-    <link>http://zhangjiayu.github.io///</link>
-    <atom:link href="http://zhangjiayu.github.io///feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Mar 2022 04:09:36 -0800</pubDate>
-    <lastBuildDate>Tue, 01 Mar 2022 04:09:36 -0800</lastBuildDate>
+    <link>https://zhangjiayu.github.io///</link>
+    <atom:link href="https://zhangjiayu.github.io///feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 01 Mar 2022 05:51:04 -0800</pubDate>
+    <lastBuildDate>Tue, 01 Mar 2022 05:51:04 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -125,8 +125,8 @@ r48这步，应该是对方失算了。双方都计算了一个多小时，再�
 
 </description>
         <pubDate>Fri, 12 Oct 2018 13:43:59 -0700</pubDate>
-        <link>http://zhangjiayu.github.io///chess/2018/10/12/chessTournament.html</link>
-        <guid isPermaLink="true">http://zhangjiayu.github.io///chess/2018/10/12/chessTournament.html</guid>
+        <link>https://zhangjiayu.github.io///chess/2018/10/12/chessTournament.html</link>
+        <guid isPermaLink="true">https://zhangjiayu.github.io///chess/2018/10/12/chessTournament.html</guid>
         
         <category>chess</category>
         
@@ -182,8 +182,8 @@ r48这步，应该是对方失算了。双方都计算了一个多小时，再�
 
 </description>
         <pubDate>Thu, 28 Jun 2018 03:58:59 -0700</pubDate>
-        <link>http://zhangjiayu.github.io///article/2018/06/28/problemset.html</link>
-        <guid isPermaLink="true">http://zhangjiayu.github.io///article/2018/06/28/problemset.html</guid>
+        <link>https://zhangjiayu.github.io///article/2018/06/28/problemset.html</link>
+        <guid isPermaLink="true">https://zhangjiayu.github.io///article/2018/06/28/problemset.html</guid>
         
         <category>article</category>
         
@@ -237,8 +237,8 @@ r48这步，应该是对方失算了。双方都计算了一个多小时，再�
 &lt;p&gt;And you get Schrodinger’s equation!&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Jun 2018 03:30:59 -0700</pubDate>
-        <link>http://zhangjiayu.github.io///article/2018/06/27/SchWP.html</link>
-        <guid isPermaLink="true">http://zhangjiayu.github.io///article/2018/06/27/SchWP.html</guid>
+        <link>https://zhangjiayu.github.io///article/2018/06/27/SchWP.html</link>
+        <guid isPermaLink="true">https://zhangjiayu.github.io///article/2018/06/27/SchWP.html</guid>
         
         <category>article</category>
         
@@ -290,8 +290,8 @@ r48这步，应该是对方失算了。双方都计算了一个多小时，再�
 &lt;p&gt;全同态加密算法在09年由Craig Gentry构造出来并发表，引起了轰动。如今云计算大发展，隐私问题得到关注，在未来同态加密算法会有非常多的应用。&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 May 2018 01:43:59 -0700</pubDate>
-        <link>http://zhangjiayu.github.io///article/2018/05/18/FHE.html</link>
-        <guid isPermaLink="true">http://zhangjiayu.github.io///article/2018/05/18/FHE.html</guid>
+        <link>https://zhangjiayu.github.io///article/2018/05/18/FHE.html</link>
+        <guid isPermaLink="true">https://zhangjiayu.github.io///article/2018/05/18/FHE.html</guid>
         
         <category>article</category>
         
@@ -304,14 +304,14 @@ r48这步，应该是对方失算了。双方都计算了一个多小时，再�
         <title>My Chess Tactics</title>
         <description>&lt;p&gt;Recently GM Chi showed me several interesting tactics that he created. I also want to show some tactics created by me.&lt;/p&gt;
 
-&lt;p&gt;&lt;img style=&quot;display:inline; width: 33%&quot; src=&quot;http://zhangjiayu.github.io/assets/chess1.jpg&quot; title=&quot;Game 1&quot; class=&quot;profile&quot; /&gt; 
-&lt;img style=&quot;display:inline; width: 33%&quot; src=&quot;http://zhangjiayu.github.io/assets/chess2.jpg&quot; title=&quot;Game 2&quot; class=&quot;profile&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display:inline; width: 33%&quot; src=&quot;https://zhangjiayu.github.io/assets/chess1.jpg&quot; title=&quot;Game 1&quot; class=&quot;profile&quot; /&gt; 
+&lt;img style=&quot;display:inline; width: 33%&quot; src=&quot;https://zhangjiayu.github.io/assets/chess2.jpg&quot; title=&quot;Game 2&quot; class=&quot;profile&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Links: GM Chi’s &lt;a href=&quot;http://blog.part3.me&quot;&gt;blog&lt;/a&gt; Rules of Chinese chess &lt;a href=&quot;https://en.wikipedia.org/wiki/Xiangqi&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 May 2018 01:40:31 -0700</pubDate>
-        <link>http://zhangjiayu.github.io///chess/2018/05/10/chesstactic.html</link>
-        <guid isPermaLink="true">http://zhangjiayu.github.io///chess/2018/05/10/chesstactic.html</guid>
+        <link>https://zhangjiayu.github.io///chess/2018/05/10/chesstactic.html</link>
+        <guid isPermaLink="true">https://zhangjiayu.github.io///chess/2018/05/10/chesstactic.html</guid>
         
         <category>chess</category>
         
@@ -325,8 +325,8 @@ r48这步，应该是对方失算了。双方都计算了一个多小时，再�
         <description>&lt;p&gt;Welcome to my blog!&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Jul 2017 11:32:09 -0700</pubDate>
-        <link>http://zhangjiayu.github.io///welcome/2017/07/10/welcome.html</link>
-        <guid isPermaLink="true">http://zhangjiayu.github.io///welcome/2017/07/10/welcome.html</guid>
+        <link>https://zhangjiayu.github.io///welcome/2017/07/10/welcome.html</link>
+        <guid isPermaLink="true">https://zhangjiayu.github.io///welcome/2017/07/10/welcome.html</guid>
         
         <category>welcome</category>
         
