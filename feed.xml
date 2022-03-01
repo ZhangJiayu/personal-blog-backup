@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiayu Zhang</title>
+    <description></description>
+    <link>http://zhangjiayu.github.io///</link>
+    <atom:link href="http://zhangjiayu.github.io///feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 01 Mar 2022 04:09:36 -0800</pubDate>
+    <lastBuildDate>Tue, 01 Mar 2022 04:09:36 -0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Diaries for a Chinese Chess Tournament</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;公开赛行纪&lt;/h1&gt;
+&lt;p&gt;张佳瑜&lt;/p&gt;
+
+&lt;p&gt;（一）&lt;/p&gt;
+
+&lt;p&gt;十月5-8日，趁着哥伦布日的小长假，我和尺特、施老师去多伦多参加了一个象棋公开赛。当时刚好搞定了一篇新论文，有时间也有心情去玩一玩。在此先感谢比赛主办方的辛勤付出、感谢领队尺特，队友施老师～&lt;/p&gt;
+
+&lt;p&gt;比赛是三人一队的团体赛，一共有将近二十支队伍吧。比赛前听到了一个大新闻—-中国队的签证没能办下来。这一下比赛出现了很多变数，我们的名次也可以往前进一点啦。比赛前三名有奖金，还能升棋联大师。不过俗话说：欲速则不达，欲求则不得。赛前我们摆正了心态：我们这次是去旅游的！&lt;/p&gt;
+
+&lt;p&gt;多伦多有两个机场：YYZ和YTZ。赛前主办方提醒我们谨慎订YTZ，不过我图便宜还是订了。5日下午1点多，飞机抵达YTZ。入关很迅速。查了下打车似乎有点贵，于是选择了坐bus。要坐的bus是长途汽车的那种车，然后—-没座了！于是我就站在中间的过道里。路上堵车堵了两个小时。我就站了两个小时。这趟车是需要拉铃才会停的，可以说兼具了长途车与公交车的缺点。我要下的站是第一站，我不知道要拉铃，于是坐过了站……&lt;/p&gt;
+
+&lt;p&gt;下车以后来到一个很有乡村气息的地方，看不到别的交通选择，只好回到打车上来。然后，手机没电了！（在车里站着不玩手机能干啥。）还好带了电脑，可以充电。等车的时候，自己慢慢舒缓了下来，欣赏着周围静美的自然气息。平直的道路两侧疏疏密密地矗立着一些树，再往里，有一地随风摇曳的野草。这里大概有人会来简单修理，但平时又任其自然生长，让人感到一种人与自然的平衡。我平时做理论研究，往往喜欢一个人思考，这种环境正是我所喜爱的。而且这里的温度也很舒适。在加拿大生活，似乎也是很不错的呢。我想。&lt;/p&gt;
+
+&lt;p&gt;这时，几滴雨珠打在玻璃上，很快地就变成了一场小雨。周围温度似乎也冷了不少。lyft司机走错了地方，只好重新打，又耽误了许多时间。真是折腾啊！来到酒店，已经是下午五点钟。相比之下，其他人从机场到酒店，只需半小时。地广人稀有时也是很不方便的啊。&lt;/p&gt;
+
+&lt;p&gt;注册之后拿到了参赛证与纪念品—-一副棋。话说我上大学以来还一直没有实体棋盘，这次正好拿到一副。吃饭之前，见到了一些以往只是听说过，或者只在微信上认识的人。尺特在领队会上抽签定下了第一轮对阵。我剩下的时间则在刷布局库中度过。&lt;/p&gt;
+
+&lt;p&gt;（二）&lt;/p&gt;
+
+&lt;p&gt;第一轮的对手不弱，不过尺特说我们应该能赢对手。台次在每轮比赛前由领队临时安排，我执红坐一台。&lt;/p&gt;
+
+&lt;p&gt;先跑个题，给大家讲讲象棋的记谱。和国象不同，中象的记谱一般是采用棋子种类+初始横坐标+终点横坐标或前后位移来表示的。比如车59就是车从5线平到9线，马57+就是马从5线跳到7线，后面的+代表向前，消除歧义。前后走的话则采用位移：炮8-2代表8线上的炮退了两格。上面的线都是纵线，也就是横坐标固定。横坐标的判定是相对于走子方右下角确定的：红棋走子红棋右边线为1线，黑棋走子则黑棋右边线为1线。这和国象很不同。&lt;/p&gt;
+
+&lt;p&gt;其实上面讲的东西里有一点自己的简化。这次比赛期间，见到了一位积极推广象棋的外国朋友，他把棋子都换成了英文字母：车马炮兵相士帅对应RNCPEAK。（我其实记不清楚了，有错的话我再改。）我觉得拿字母替代汉字挺方便的。大写红棋小写黑棋。C25，n87+，这样～&lt;/p&gt;
+
+&lt;p&gt;第一轮开始了。&lt;/p&gt;
+
+&lt;p&gt;1.P3+1 p3+1&lt;br /&gt;
+第一轮开始以前大概想了想自己该用什么布局。中炮其实已经不太敢走了，因为套路太多，而自己平时学习生活都很忙，没时间记那么多的开局套路。下的时候很容易走错或者被库杀。于是选择了挺兵。黑棋最常见的走法是p87卒底炮吧，不过实战选择了另外一路变化。&lt;br /&gt;
+2.C87 c25 3.C25 n23+ 4.N23+ c86 5.R12 n87+ 6.R9+1 r12 7.N89+ a45+&lt;br /&gt;
+黑棋阵型自己没有准备，只能临场计算。走到这一步时，临场感觉支士有点缓，又联想到刷开局库时候见过类似开局有P9+1的棋，感觉自己似乎有备无患了。&lt;br /&gt;
+8.P9+1 p9+1 9.R2+5 e31+ 10.R94 p9+1&lt;br /&gt;
+走这几步时，自己还以为全线压制，稳占优势呢。结果算了半天都找不到合适的突破口，顿时感觉背后发凉。&lt;br /&gt;
+11.R4+3 p9+1 12.N98+ p98 13. R2-2 r9+4 14.N87+&lt;br /&gt;
+在这种比赛中自己必须对形势、手段极其敏感。开局以来的这近十个回合，看起来只是一些普通的着法，其实自己内心已是坐过山车一般。而这步棋，自己其实完全算不清楚，但是找不到更好的办法，只能冒险。&lt;br /&gt;
+14. … r2+3 15.N75+ e75+ 16.R2+3 p7+1 17.R23 p7+1 18.R43 n79- 19.N32+ r24&lt;br /&gt;
+运气不错，几步下来形势稍好。但是黑棋平车之后，自己又感觉麻烦了。通常的思路是进攻，但是稍一不慎被兑子，再被扫几个兵，可能就输飞了。但自己也没有退路了。&lt;br /&gt;
+20.N21+ r98 21.C51 n97- 22.N13+&lt;br /&gt;
+如果说哪步棋让我感觉有些后悔的话，大概就是这一步。事后来看R3+2可能机会更多。但是自己当时连续计算了近一个小时，时间精力都跟不上，没能算清……&lt;br /&gt;
+22. … n78+ 23.A45+ r4+1&lt;br /&gt;
+黑棋n89、r84的反击太厉害，只能先防一手。黑棋升车之后自己已经算不出棋了，只能吓唬一下，看看对手会不会失误了。&lt;br /&gt;
+24.C1+6 r47 25.C12 r7+1 26.R7-2 r87 27.R7+1 n87+ 28.C71 E57-&lt;br /&gt;
+双方议和。&lt;br /&gt;
+先手把稍好的棋走和，算是下得比较失败吧。不过队友赢了，使得我们赢下了第一轮。感谢队友，也感谢自己的对手。第一轮下完，感觉自己终于有了一点进入状态的感觉，把工作学习上的事暂时地抛在脑后了。主办方提供了西式自助作为午餐，自己不是很适应这种西式菜品，不过面包的口味很不错。午餐后离下午第二轮还有不到一个小时。于是回房间休息，准备面对第二轮的对抗。&lt;/p&gt;
+
+&lt;p&gt;（三）&lt;/p&gt;
+
+&lt;p&gt;中午尺特来找我们讨论下午对阵。对方有一个队员相对弱一些，尺特希望不管谁对上他，尽力争胜。虽然我们提前不知道对方的台次安排，但是尺特分析认为对方很有可能把他安排在二台。最终赢下这盘棋的任务落在了我的身上。&lt;/p&gt;
+
+&lt;p&gt;大家对这盘棋太重视了，自己的心态也有些失衡。尺特认为对手柔性布局下得很好，中炮局自己又不敢下。最终自己计划使用“苏式布局”强攻。（为什么叫“苏式布局”呢？因为我本科下高校赛的时候被一位苏同学用这个布局切碎了，对此印象极为深刻……)&lt;/p&gt;
+
+&lt;p&gt;1.N23+ p7+1 2.C85 n23+ 3.N87+ r12 4.R9+1 c21 5.P5+1 c85&lt;br /&gt;
+自己真的对上的预先猜想的对手。我拿红棋。自己太想赢了，结果下出了不冷静的着法。对手长考过后还中炮，我隐隐感觉不对：对手很强啊，这么粗犷的着法真的有效吗？&lt;br /&gt;
+6.N35+ n87+ 7.C24 r98 8.C4+5&lt;br /&gt;
+粗算了一下，以为这样能有优势。然而……&lt;br /&gt;
+8. … r2+2&lt;br /&gt;
+黑棋走出了唯一可行的对抗着法。自己细算了一下，发现没有后续手段。黑棋现在已经稍好了。短短8个回合，先行之利居然已经被我浪飞了！&lt;br /&gt;
+冷静，一定要冷静！&lt;br /&gt;
+9.R1+1 a65+ 10.C4-3 r2+2 11.R13 r26 12.R94 p3+1&lt;br /&gt;
+关键的选择来了。P5+1行吗？接下来 c5+2 P3+1 p7+1 R3+3 n34+ R3+3 n45+ N75+ r8+6 R3+2 a56- C5+3 r65 然后呢？&lt;br /&gt;
+十几步以外的变化的计算并不容易。深度的增加带来了大量的分支，对每个变化都必须尽快算出结果找到答案。&lt;br /&gt;
+接下来C45行吗？ a45+ 红棋似乎亏飞了。C48也不行，r5+2 A45+ r86轻松化解。时间一分一秒地过去，其他变化也被一个个抛弃。最后回到这一条道路，终于发现了先走A45+的手段，确认了这一路变化的可行性。&lt;br /&gt;
+13.P5+1 c5+2 14.P3+1 e75+&lt;br /&gt;
+对方长考过后选择了稳健的变化。这一路变化自己当初也大概考虑过。看到黑棋的选择，自己长出一口气：计算没有失误，形势扳回来了。&lt;br /&gt;
+15.A45+ c5+3 16.E75+ r65 17.P3+1 e57+ 18.C48 e35+ 19.R4+5 p1+1 20.C8+3 n76- 21.R3+3 c1+4 22.N79+ r5+2 23.C89 r8+9 24.C9+2 e53- 25.R3+1 r5+1 26.R37 r87 27.R4-6 r7-7 28.N98+ n32+ 29.R78 r5-1 30.R87 r71 31.R7+4 r1-2 32.R79 r53 33.R41 r3-2 34.R9-3 r35 35.R9+1 n68+ 36.R92 R86+ 37.R14 r57 38.R2+2 n67- 39.R4+6 p9+1 40.R41 a56- 41.R1+3&lt;br /&gt;
+红胜。&lt;br /&gt;
+两个队友都平了。于是总分取胜。&lt;/p&gt;
+
+&lt;p&gt;比赛之后。&lt;/p&gt;
+
+&lt;p&gt;“他哪里弱了！明明很强的啊！”&lt;/p&gt;
+
+&lt;p&gt;“我故意那么说，让你能发挥好。”&lt;/p&gt;
+
+&lt;p&gt;“下次排台次你排好了直接告诉我就好。我不研究对阵策略，影响我心态……”&lt;/p&gt;
+
+&lt;p&gt;（四）&lt;/p&gt;
+
+&lt;p&gt;短暂的休息过后，开始了第三轮。直接对上了本次比赛的冠军，加拿大队。你问我为什么冠军不是中国队？因为中国队签证没办下来。（捂脸&lt;/p&gt;
+
+&lt;p&gt;加拿大队里有一位厉害的职业棋手，其他两位也非常强。有一位居然是尺特的老乡，自己小时候也和他下过棋，见过几次，没想到此次居然能在异乡见面。&lt;/p&gt;
+
+&lt;p&gt;更巧的是，他就是我下一轮的对手。&lt;/p&gt;
+
+&lt;p&gt;1.P3+1 e35+ 2.C85 n23+ 3.N87+ p3+1 4.N23+ n87+ 5.R98 r12 6.C2+2 r9+1 7.R1+1 r94&lt;br /&gt;
+我这盘棋依然执红先走。双方选择柔性布局。自己每步棋都在拼命计算，力求下出精确的着法。即使这样，还是感觉形势非常难受。后来我用软件拆了一下这盘棋，惊讶地发现，这个时候自己已经亏了一点。&lt;br /&gt;
+记得自己水平还比较弱的时候，对开局不同着法的微妙差距是没有感觉的，只会开局记定式，中局拼计算。和高手下棋的时候，经常不明所以地输掉。很多时候，象棋的输赢不是取决于遇到复杂变化时的计算深度，而是取决于对不同分支的细微差距的把握能力。一步棋亏一点点，没什么感觉；五个回合下来，局面的天平就会倾斜。&lt;br /&gt;
+这盘棋里，自己面临的就是这样的处境。 &lt;br /&gt;
+8.R8+6 c8+1 9.R14 r4+6 10.N79- a45+ 11.R4+7&lt;br /&gt;
+这盘棋的进展异常地慢。对方和我一样，花费了大量时间计算开局变化。旁边的那一盘已经进入了中盘的激烈对抗，这盘才走了十个回合。&lt;br /&gt;
+11. … c2-1 12.R4-4 r4+1 13.N97+ p7+1 14.R8+1 n34+ 15.R48 p7+1 16.R83 n76+&lt;br /&gt;
+11回合R4+7的时候自己已经算到了此处，确认这是双方最佳走法。一切按计划进行。一方面感觉红棋形势不错，另一方面，找不到其他可行的选择。&lt;br /&gt;
+17.C5+4 c8-1 18.R8-5 c87 19.N76+ n43- 20.C5-1  &lt;br /&gt;
+几步棋下来，自己竟然感觉亏了。对手太强了！难道说，这么复杂的局面，他一直算到了这里！&lt;br /&gt;
+20. … r48 21.C2+1 c2+4 22.P7+1 c2-1&lt;br /&gt;
+r48这步，应该是对方失算了。双方都计算了一个多小时，再加上之前的两轮，精力大概都已经透支。即使这样，我也只是稍好。而且，紧接着，我就把好不容易得来的一点优势吐了回去。&lt;br /&gt;
+23.R8+2 c25 24.C25 r2+5 25.N78+ p3+1 26.R3+1 p32 27.R34 r86&lt;br /&gt;
+太强了！自己顿时感到一阵绝望：这棋要输了！&lt;br /&gt;
+28.E31+ r6-2 29.P5+1 c3+6 30.R43 r6-1 31.R3-4 r65 32.R35 r53 33.R5+2 r5+4 34.C52 r3-6 35.A65+ n3+5 36.C2-3 n57+ 37.c25 r34 38.E13+ r4+2 39.C53 r45&lt;br /&gt;
+看到对手这步棋，自己感觉有了一点和棋的希望。感觉对手应该有些东西没算到。自己在心里隐隐制定了一个计划。&lt;br /&gt;
+40.R5+1 n75+ 41.C31 p2+1 42.P9+1 n53- 43.C19 k54 44.P1+1 p21 45.C9-2 p1+1 46.A56+ n35+ 47.A45+ n57- 48.P9+1 p1+1 49.C9+5 n79+ 50.C94 k98+ 51.C4-3 p1+1 52.C43 p12 53.C3-1&lt;br /&gt;
+终于和掉了。先手苟到一盘和棋，对手真的比我强。&lt;br /&gt;
+其他两盘一平一负，输掉了这一轮。&lt;/p&gt;
+
+&lt;p&gt;下完棋，大家都不想说话。大家都尽了力，但是对手太强，努力并没能改变什么。&lt;/p&gt;
+
+&lt;p&gt;吃完饭回到房间，休息了几个小时，慢慢从失败的打击中回复了过来。追上最高分大概是不可能了，但为什么要定那样的目标呢？后面几轮，好好下就可以了。&lt;/p&gt;
+
+&lt;p&gt;（五）&lt;/p&gt;
+
+&lt;p&gt;未完待续&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 12 Oct 2018 13:43:59 -0700</pubDate>
+        <link>http://zhangjiayu.github.io///chess/2018/10/12/chessTournament.html</link>
+        <guid isPermaLink="true">http://zhangjiayu.github.io///chess/2018/10/12/chessTournament.html</guid>
+        
+        <category>chess</category>
+        
+        
+        <category>chess</category>
+        
+      </item>
+    
+      <item>
+        <title>Interesting Problems</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;一些趣题&lt;/h1&gt;
+&lt;p&gt;张佳瑜&lt;/p&gt;
+
+&lt;p&gt;整理一些趣题给大家玩玩。难度递增。看看大家能做到哪。（注：这些问题都有非常简洁容易理解的解法）&lt;/p&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;小学篇&lt;/h4&gt;
+
+&lt;p&gt;平面上&lt;script type=&quot;math/tex&quot;&gt;ABCD&lt;/script&gt;组成凸四边形，求到四个点距离之和最小的点。&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;8\times 8&lt;/script&gt;的棋盘挖掉两个对角方块，证明它不能用&lt;script type=&quot;math/tex&quot;&gt;1\times 2&lt;/script&gt;的格子铺满。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;初中篇&lt;/h4&gt;
+
+&lt;p&gt;求值：&lt;script type=&quot;math/tex&quot;&gt;1+\frac{1}{1+\frac{1}{1+\frac{1}{\cdots}}}=?&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;棱长为1的正方体，正投影下阴影面积最大为多少？&lt;/p&gt;
+
+&lt;p&gt;写出斐波那契数列的通项公式。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-3&quot;&gt;高中篇&lt;/h4&gt;
+
+&lt;p&gt;证明当&lt;script type=&quot;math/tex&quot;&gt;n\rightarrow +\infty&lt;/script&gt;, &lt;script type=&quot;math/tex&quot;&gt;1+\frac{1}{2}+\frac{1}{3}+\cdots+\frac{1}{n}\rightarrow +\infty&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;证明椭圆一个焦点发出的光线，反射后经过另一焦点。&lt;/p&gt;
+
+&lt;p&gt;两个人玩这样一个游戏：黑板上有自然数1到N，双方轮流选数划掉，并在划掉一个数的时候会同时划掉这个数的所有约数。无数可选的人败。证明先选方有必胜策略。&lt;/p&gt;
+
+&lt;p&gt;写一段能输出其自身的代码。&lt;/p&gt;
+
+&lt;p&gt;证明：平面上给定不全共线的多个点，必有一条直线经过且恰好只经过两个点。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-4&quot;&gt;高中以上篇&lt;/h4&gt;
+
+&lt;p&gt;证明不存在一个整数和实数间的一一对应。&lt;/p&gt;
+
+&lt;p&gt;求值：&lt;script type=&quot;math/tex&quot;&gt;1+\frac{1}{4}+\frac{1}{9}+\frac{1}{16}+\cdots+\frac{1}{n^2}+\cdots&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;给定两个n位整数，如何快速计算它们的乘积？（竖式乘法需要的时间是n平方级，有一个简单的技巧可以得到一个&lt;script type=&quot;math/tex&quot;&gt;n^{\log_2 3}&lt;/script&gt;的算法）&lt;/p&gt;
+
+&lt;p&gt;证明所有素数的倒数之和发散。&lt;/p&gt;
+
+&lt;p&gt;证明一个上面没有结的绳圈（不剪断）不能变形成一个上面打了一个结的绳圈。（这太直观了，可是怎么证？）&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 Jun 2018 03:58:59 -0700</pubDate>
+        <link>http://zhangjiayu.github.io///article/2018/06/28/problemset.html</link>
+        <guid isPermaLink="true">http://zhangjiayu.github.io///article/2018/06/28/problemset.html</guid>
+        
+        <category>article</category>
+        
+        
+        <category>article</category>
+        
+      </item>
+    
+      <item>
+        <title>How to Understand Schrodinger&#39;s Equation</title>
+        <description>&lt;h1 id=&quot;how-to-understand-schrodingers-equation&quot;&gt;How to Understand Schrodinger’s Equation&lt;/h1&gt;
+
+&lt;p&gt;What is the solution for the following equation?&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{d}{dt}y=-y&lt;/script&gt;
+
+&lt;p&gt;A solution is &lt;script type=&quot;math/tex&quot;&gt;y=e^{-t}&lt;/script&gt;, right?&lt;/p&gt;
+
+&lt;p&gt;How about the following?&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{d^2}{dx^2}y=-y&lt;/script&gt;
+
+&lt;p&gt;We can easily find &lt;script type=&quot;math/tex&quot;&gt;\sin(x)&lt;/script&gt;, &lt;script type=&quot;math/tex&quot;&gt;\cos(x)&lt;/script&gt; as its solution.&lt;/p&gt;
+
+&lt;p&gt;What if we add an imaginary unit &lt;script type=&quot;math/tex&quot;&gt;i&lt;/script&gt;?&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;i\frac{d}{dt}y=y&lt;/script&gt;
+
+&lt;p&gt;A solution is &lt;script type=&quot;math/tex&quot;&gt;y=e^{-it}&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Pay attention! &lt;script type=&quot;math/tex&quot;&gt;y=e^{-it}&lt;/script&gt; is a periodic function!&lt;/p&gt;
+
+&lt;p&gt;What if &lt;script type=&quot;math/tex&quot;&gt;y&lt;/script&gt; is a function of both &lt;script type=&quot;math/tex&quot;&gt;x&lt;/script&gt; and &lt;script type=&quot;math/tex&quot;&gt;t&lt;/script&gt;, and satisfies the following equation?&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;i\frac{\partial}{\partial t}y=\frac{\partial^2}{\partial x^2}y&lt;/script&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\partial&lt;/script&gt; means taking derivative with respect to one variable.&lt;/p&gt;
+
+&lt;p&gt;Emm..&lt;/p&gt;
+
+&lt;p&gt;How about this?&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;y=e^{-it}\sin(x)&lt;/script&gt;, &lt;script type=&quot;math/tex&quot;&gt;y=e^{-it}\cos(x)&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Wow!&lt;/p&gt;
+
+&lt;p&gt;Again, it’s periodic! It describes wave!&lt;/p&gt;
+
+&lt;p&gt;What if we consider arbitrary dimension instead of one dimension, and replace &lt;script type=&quot;math/tex&quot;&gt;\frac{\partial^2}{\partial x^2}&lt;/script&gt; with a Hamiltonian operator?&lt;/p&gt;
+
+&lt;p&gt;And you get Schrodinger’s equation!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jun 2018 03:30:59 -0700</pubDate>
+        <link>http://zhangjiayu.github.io///article/2018/06/27/SchWP.html</link>
+        <guid isPermaLink="true">http://zhangjiayu.github.io///article/2018/06/27/SchWP.html</guid>
+        
+        <category>article</category>
+        
+        
+        <category>article</category>
+        
+      </item>
+    
+      <item>
+        <title>A Super Simple Introduction to FHE</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;数字世界的保险箱&lt;/h1&gt;
+&lt;p&gt;张佳瑜&lt;/p&gt;
+
+&lt;p&gt;这是一篇有关同态加密的科普文。&lt;/p&gt;
+
+&lt;p&gt;假设你得到了一大块金子。你想找工匠加工成好看的饰品，但又怕工匠偷走金子。而你又不会自己加工——怎么办呢？&lt;/p&gt;
+
+&lt;p&gt;谈这个问题之前，我们先来补充一下背景信息。首先，这个问题不是发生在地球上，而是宇宙某处的一个异世界——数字世界。数字世界和现实世界一样有发达的物流系统，每时每刻都有不计其数的数字包裹到处传递着。包裹运输途中常常会遇到“盗窃者”。麻烦之处在于，数字世界的一切都可以复制。盗窃者只需等在包裹的必经之路上，把它复制一份—这就意味着，你的东西被“偷”走了。即使接收方收到的东西不受影响，只要偷窃者能接触到物品，偷窃就已经成功了。&lt;/p&gt;
+
+&lt;p&gt;为了防盗，我们可以造一个保险箱，把东西锁在保险箱里送过去。即使盗窃者尝试复制，他也只能拿到锁在箱子里的物品，这不算成功。好了，问题解决！——真的是这样吗？&lt;/p&gt;
+
+&lt;p&gt;问题在于，接收端怎么打开保险箱，取出物品呢？他需要保险箱的钥匙。钥匙怎么送过去？直接送不行，会被偷。当然，我们可以假设这两户人家祖上穿越到现实世界里跑了一趟，于是两个人从祖上开始就共享一把钥匙。&lt;/p&gt;
+
+&lt;p&gt;只考虑两户人家的话，问题似乎又解决了。但数字世界的居民数以亿计，你希望和所有人之间都能安全地运送包裹的话，你需要和所有人家都分享一把钥匙。注意，你没有办法让别人互相分享你的钥匙——会被偷。你只能一个个去送，这就太麻烦了。&lt;/p&gt;
+
+&lt;p&gt;要解决这个问题，我们可以造一个魔改版的保险箱。这个保险箱上有一个单向门，所有人都可以往里放东西，但只有拥有钥匙的人可以取出来。怎么用它做安全传输呢？比如，我想向小明发东西，我可以让小明（！）造一个魔改版的箱子发给我（注意是谁发给谁），我把东西通过单向门放进去，把箱子传给小明就可以了。我可以把箱子复制一份留着以后使用，也可以把箱子给其他人。问题解决！&lt;/p&gt;
+
+&lt;p&gt;很长的背景介绍完了，回到原先的问题。在这个问题里，你想要找的工匠，同时有着“信息接收方”和“盗窃者”对双重身份。这个问题还能解决吗？&lt;/p&gt;
+
+&lt;p&gt;注意，称金子的重量是不可行的。第一，金子只是数字包裹的一个具象化，是可复制的，只要能接触到就算盗窃成功。第二，金子不但会发生物理变化，还会发生化学变化。&lt;/p&gt;
+
+&lt;p&gt;所以…著名的同态保险箱（密码）出现了！&lt;/p&gt;
+
+&lt;p&gt;首先，和上面一样，我们要把东西放在保险箱里，把钥匙自己藏起来。然后，我们希望这个保险箱有一个柔软的外壳，工匠可以隔着外壳去操作里面的东西，又没法把东西拿出来。这个功能，就好像生物实验室里用的手套箱一样。&lt;/p&gt;
+
+&lt;p&gt;为了造出这样的箱子，我们先考察一下已有的一些单向门保险箱。我们发现，其中有一类保险箱，叫做格保险箱，本身已经有一定的这样的特性。这种保险箱允许我们做各种操作，操作种类还挺全面——既有物理变化，也有化学变化。但问题是，这个箱子能承受的操作次数是有限的。少于这个限度时东西没任何问题，但一旦超过这个限度，箱子就会释放出大量有害物质，把箱子里的东西完全搞乱。&lt;/p&gt;
+
+&lt;p&gt;（神奇的技巧要出现了！）首先我们尝试一下这么做：制造很多个这样的箱子，每个箱子有一把自己的钥匙。首先，我们把金子放在第一个箱子里，送给工匠。工匠做几次操作，并在即将达到这个箱子的承受限度时停下来。为了继续，我们把第一个箱子的钥匙放在第二个箱子里，送给工匠。因为工匠并没有第二个箱子的钥匙，他无法从中取出第一个箱子的钥匙。但是！他可以把第一个箱子整体放进第二个箱子里面，然后隔着第二个箱子把第一个箱子打开！&lt;/p&gt;
+
+&lt;p&gt;也就是说，工匠必须要在第二个箱子的使用限度里完成“打开第一个箱子”这个操作。接下来，他只要在第二个箱子里再多做一次操作就行了。即使第二个箱子马上就要“寿终正寝”，我们还有第三个箱子…&lt;/p&gt;
+
+&lt;p&gt;问题至此已经可以认为解决了，但我们还可以再多做一点。我们注意到，这种技巧，当“金子加工”这一工作需要的操作次数很多的时候，我们要制造很多很多个箱子。有没有办法让“我”再懒一些呢？答案在下面：-）&lt;/p&gt;
+
+&lt;p&gt;提示1: 箱子连同里面的所有东西可以一起被复制 提示2: 箱子只能从外面打开&lt;/p&gt;
+&lt;p style=&quot;color:white&quot;&gt;（答案：把钥匙扔到它自己的箱子里）&lt;/p&gt;
+
+&lt;p&gt;后记&lt;/p&gt;
+
+&lt;p&gt;全同态加密算法在09年由Craig Gentry构造出来并发表，引起了轰动。如今云计算大发展，隐私问题得到关注，在未来同态加密算法会有非常多的应用。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 May 2018 01:43:59 -0700</pubDate>
+        <link>http://zhangjiayu.github.io///article/2018/05/18/FHE.html</link>
+        <guid isPermaLink="true">http://zhangjiayu.github.io///article/2018/05/18/FHE.html</guid>
+        
+        <category>article</category>
+        
+        
+        <category>article</category>
+        
+      </item>
+    
+      <item>
+        <title>My Chess Tactics</title>
+        <description>&lt;p&gt;Recently GM Chi showed me several interesting tactics that he created. I also want to show some tactics created by me.&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;display:inline; width: 33%&quot; src=&quot;http://zhangjiayu.github.io/assets/chess1.jpg&quot; title=&quot;Game 1&quot; class=&quot;profile&quot; /&gt; 
+&lt;img style=&quot;display:inline; width: 33%&quot; src=&quot;http://zhangjiayu.github.io/assets/chess2.jpg&quot; title=&quot;Game 2&quot; class=&quot;profile&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Links: GM Chi’s &lt;a href=&quot;http://blog.part3.me&quot;&gt;blog&lt;/a&gt; Rules of Chinese chess &lt;a href=&quot;https://en.wikipedia.org/wiki/Xiangqi&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 May 2018 01:40:31 -0700</pubDate>
+        <link>http://zhangjiayu.github.io///chess/2018/05/10/chesstactic.html</link>
+        <guid isPermaLink="true">http://zhangjiayu.github.io///chess/2018/05/10/chesstactic.html</guid>
+        
+        <category>chess</category>
+        
+        
+        <category>chess</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to My Blog!</title>
+        <description>&lt;p&gt;Welcome to my blog!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Jul 2017 11:32:09 -0700</pubDate>
+        <link>http://zhangjiayu.github.io///welcome/2017/07/10/welcome.html</link>
+        <guid isPermaLink="true">http://zhangjiayu.github.io///welcome/2017/07/10/welcome.html</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+  </channel>
+</rss>
